@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="newweather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.play.game.nowweather.db.Province"/>
+        <mapping class="com.play.game.nowweather.db.City"/>
+        <mapping class="com.play.game.nowweather.db.Country"/>
+
+    </list>
+
+
+</litepal>
